@@ -13,7 +13,7 @@ In Salesforce.com, we have two types of Applications they are
 
 In Salesforce we can create, manage and customise both applications according to user requirement.
 
-## PROCEDURE
+## PROCEDURE:
 
 ### Step 1: Log into your developer
 ![image](https://github.com/kannan0071/Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com/assets/119641638/a5457af9-d632-4d38-88da-9d515da6d39c)
